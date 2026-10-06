@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PBKK.csproj" />
+  <Project Path="StudentManager.csproj" />
+</Solution>
